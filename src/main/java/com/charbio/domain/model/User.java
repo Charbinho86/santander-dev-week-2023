@@ -28,11 +28,11 @@ public class User {
         this.id = id;
     }
 
-    public String getNumber() {
+    public String getName() {
         return name;
     }
 
-    public void setNumber(String name) {
+    public void setName(String name) {
         this.name = name;
     }
 
